@@ -1,2 +1,3 @@
 # Python-basics
 This project is used to master Python basics
+It contains two common modules' exercise, they are numpy and matplotlib...
